@@ -1,48 +1,41 @@
-## Matthew Gallagher
-
-> Software engineer. Building AI solutions for businesses.
-
----
-
 ```text
-$ whoami
-matthew gallagher
-
-$ pwd
-/montana-tech/software-engineering
-
-$ cat about.txt
-I design and ship AI-powered tools for businesses —
-from prototype to production. Equal parts engineering rigor
-and figuring it out as I go.
-
-$ ls education/
-montana-technological-university/
-  b.s. software engineering — class of 2023
-
-$ cat looking-for.txt
-- open source contributions
-- new opportunities  (open to chat)
+┌──────────────────────────────────────────────┐
+│  [ SYSTEM ]                                  │
+│                                              │
+│  A new player has entered the dungeon.       │
+│                                              │
+│    name    matthew gallagher                 │
+│    class   software engineer                 │
+│    title   ai solutions builder              │
+│    rank    e —> ?                            │
+│                                              │
+│  > arise.                                    │
+└──────────────────────────────────────────────┘
 ```
 
+# Matthew Gallagher
+
+Software engineer building AI solutions for businesses.
+
 ---
+
+### About
+
+B.S. Software Engineering, Montana Technological University — class of 2023.
+I design and ship AI-powered tools, from prototype to production.
 
 ### Stack
 
-```text
-languages    python   typescript   javascript   sql
-ai           openai   anthropic    langchain    rag
-web          react    next.js      node         tailwind
-infra        docker   postgres     git          linux
-```
+Python · TypeScript · JavaScript · SQL
+<br>OpenAI · Anthropic · LangChain · RAG
+<br>React · Next.js · Node · Tailwind
+<br>Docker · Postgres · Git · Linux
 
----
+### Looking for
 
-### Reach me
+- Open source contributions
+- New opportunities
 
-```text
-github     github.com/Hydro4Lyfe
-linkedin   linkedin.com/in/matthew-gallagher-58a748252
-```
+### Elsewhere
 
-<sub>`status: building. always.`</sub>
+[GitHub](https://github.com/Hydro4Lyfe) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/matthew-gallagher-58a748252/)
